@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajatgarg765
-- 👀 I’m interested in COMPUTER SOFTWARE ENGINEERING
+- 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning DL ALGOS and Computer Vision.
 - 💞️ I’m looking to collaborate on NEW PROJECTS on ML OR PYTHON
 - 📫 How to reach me YOU CAN MAIL AT rajatrj349@gmail.com
