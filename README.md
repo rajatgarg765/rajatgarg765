@@ -25,7 +25,6 @@ I am a Tech and Coding enthusiast and a Software Developer based in Ayodhya, Ind
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/flask.png" title="Flask"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/django.png" title="Django"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/data-science.png" title="Machine Learning"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/></code>
 <code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
