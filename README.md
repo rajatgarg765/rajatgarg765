@@ -1,6 +1,6 @@
-### Hey 👋🏽, I'm [Rajat!](https://rajatgargrj.blogspot.com/) 
+### Hi, I'm [Rajat!](https://rajatgargrj.blogspot.com/) 
 
-Hi, I'm Rajat Garg, a Web Developer, Problem Solving Enthusiast and Open Source Developer🚀 from India. <br> <br> 
+Hi, I'm Rajat Garg, a Python Developer and Machine Learning enthusiast and Open Source Developer🚀 from India. <br> <br> 
 [![Linkedin Badge](https://img.shields.io/badge/-SatyamKoshta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/satyamkoshta340)](https://www.linkedin.com/in/satyamkoshta340/)
 [![Twitter Badge](https://img.shields.io/badge/-@KoshtaSatyam-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/KoshtaSatyam)](https://twitter.com/KoshtaSatyam) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:satyamkoshta340@gmail.com)](mailto:satyamkoshta340@gmail.com)
