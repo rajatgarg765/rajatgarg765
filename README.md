@@ -1,6 +1,6 @@
-<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Ciao, I'm Rajat Garg! </h1>
+<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Hey, I'm Rajat Garg! </h1>
 
-I am a Tech and Coding enthusiast and a Software Developer based in Ayodhya, India. I am currently pursuing my Bachelor of Engineering degree in Computer Science and  Engineering from Faculty of Engineering & Technology - GKV, Haridwar.
+I am Software Developer based in Ayodhya, India. I am currently pursuing my Bachelor of Technology degree in Computer Science and Engineering from Faculty of Engineering & Technology - GKV, Haridwar.
 
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
