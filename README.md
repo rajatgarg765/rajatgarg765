@@ -23,6 +23,9 @@ I am a Tech and Coding enthusiast and a Software Developer based in Ayodhya, Ind
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/flask.png" title="Flask"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/django.png" title="Django"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/machine-learning.png" title="Machine Learning"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/></code>
 <code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
@@ -33,10 +36,6 @@ I am a Tech and Coding enthusiast and a Software Developer based in Ayodhya, Ind
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/sql.png" title="SQL"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/flask.png" title="Flask"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/django.png" title="Django"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/linux.png" title="Linux"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/ubuntu.png" title="Ubuntu"/></code>
 
