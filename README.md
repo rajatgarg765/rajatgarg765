@@ -1,4 +1,7 @@
 <h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Hey, I'm Rajat Garg! </h1>
+<p><em>A Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+<img style="center" alt="GIF" src="https://github.com/RajatGarg97/RajatGarg97/blob/master/media/techstack.gif" width="360px"/>
 
 I am Software Developer based in Ayodhya, India. I am currently pursuing my Bachelor of Technology degree in Computer Science and Engineering from Faculty of Engineering & Technology - GKV, Haridwar.
 
