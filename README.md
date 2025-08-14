@@ -3,7 +3,7 @@
 </em></p>
 <img style="center" alt="GIF" src="https://github.com/RajatGarg97/RajatGarg97/blob/master/media/techstack.gif" width="360px"/>
 
-I am Software Developer based in Ayodhya, India. I am currently pursuing my Bachelor of Technology degree in Computer Science and Engineering from Faculty of Engineering & Technology - GKV, Haridwar.
+I am a Software Developer.
 
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
