@@ -3,7 +3,7 @@
 # 🚀 Rajat Garg
 
 ### 💻 Software Engineer | Backend Specialist | Cloud Infrastructure | System Optimization
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Backend+Engineer+%7C+Data+Platform+Expert;Python+%7C+Go+%7C+PostgreSQL;Microservices+%7C+Cloud+Architecture;Building+Scalable+Solutions;Performance+Optimization+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Backend+Engineer+%7C+Python+%7C+PostgreSQL;Microservices+%7C+Cloud+Architecture;Building+Scalable+Solutions;Performance+Optimization+Specialist" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajatrj349&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
