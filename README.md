@@ -6,8 +6,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Backend+Engineer+%7C+Python+%7C+PostgreSQL;Microservices+%7C+Cloud+Architecture;Building+Scalable+Solutions;Performance+Optimization+Specialist" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajatrj349&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rajatrj349?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=rajatgarg765&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rajatgarg765?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-orange?style=for-the-badge" alt="Focus" />
 </p>
 
@@ -100,7 +100,7 @@ class RajatGarg:
 <div align="center">
 
 ### 🔬 MetaRaj - Open-Source Data Analytics Platform
-[![MetaRaj](https://img.shields.io/badge/🔬%20MetaRaj-View%20Project-brightgreen?style=for-the-badge&logo=github)](https://github.com/rajatrj349/MetaRaj)
+[![MetaRaj](https://img.shields.io/badge/🔬%20MetaRaj-View%20Project-brightgreen?style=for-the-badge&logo=github)](https://github.com/rajatgarg765/MetaRaj)
 
 </div>
 
@@ -128,12 +128,12 @@ class RajatGarg:
 </tr>
 </table>
 </div>
----
+
 
 <div align="center">
 
 ### 🗃️ FileTracker - Document Management System
-[![FileTracker](https://img.shields.io/badge/🗃️%20FileTracker-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/rajatrj349/FileTracker)
+[![FileTracker](https://img.shields.io/badge/🗃️%20FileTracker-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/rajatgarg765/FileTrackerDjango)
 
 </div>
 
@@ -161,7 +161,7 @@ class RajatGarg:
 </tr>
 </table>
 </div>
----
+
 
 ## 💼 Professional Impact
 
